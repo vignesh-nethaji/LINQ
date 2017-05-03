@@ -1,0 +1,5 @@
+D:\Vignesh\C# samples\linq\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\Vignesh\C# samples\linq\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\Vignesh\C# samples\linq\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+D:\Vignesh\C# samples\linq\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\Vignesh\C# samples\linq\LINQ\LINQ\obj\Debug\LINQ.pdb
