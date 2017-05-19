@@ -9,6 +9,8 @@ namespace LINQ.Simple
     {
         static void Main(string[] args)
         {
+			
+			
             Sample_Aggregate_Lambda_Simple();
             Sample_Aggregate_Lambda_Seed();
             Sample_Average_Lambda();
